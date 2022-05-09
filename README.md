@@ -1,6 +1,7 @@
 [![Slam](https://telegra.ph/file/019996f816db9ed576cff.jpg)](https://t.me/request_ayush)
 
 owner of this repo :- [AYUSH](https://github.com/ayushteke)
+Modified By Me [CyberNobie](https://github.com/cybernobie)
 
 
 # all the commits are made from [slam-mirrorbot](https://github.com/SlamDevs/slam-mirrorbot)
@@ -19,7 +20,7 @@ Give Star & Fork this repo, then upload **token.pickle** & **credentials.json** 
 
 
 after this click on the below button 👇👇👇👇
-<p><a href="https://github.com/ayushteke/Torrent_2_Gdrive_mirrorbot/blob/master/heroku-guide.md"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p> 
+<p><a href="https://github.com/cybernobie/Torrent_2_Gdrive_mirrorbot/blob/master/heroku-guide.md"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p> 
 
 
 ## Features supported:
@@ -71,8 +72,8 @@ Deploying is pretty much straight forward and is divided into several steps as f
 
 - Clone this repo:
 ```
-git clone https://github.com/ayushteke/slam_aria_mirror_bot_HEROKU/
-cd slam_aria_mirror_bot_HEROKU
+git clone https://github.com/cybernobie/Torrent_2_Gdrive_mirrorbot/
+cd Torrent_2_Gdrive_mirrorbot
 ```
 
 - Install requirements
